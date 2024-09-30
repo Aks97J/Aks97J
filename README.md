@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-👋 Hi, I’m Akash Talmale
-🔭 I’m currently working as Software Engineer in Bank of America.
-👀 I’m Working in DevOps.
-🌱 I’m currently learning DevOps Tools
-💞️ I’m looking to collaborate on DevOps Project
-📫 How to reach me on my email id akash.talmale66@gmail.com
+-👋 Hi, I’m Akash Talmale.
+-🔭 I’m currently working as Software Engineer in Bank of America.
+-👀 I’m Working in DevOps.
+-🌱 I’m currently learning DevOps Tools.
+-💞️ I’m looking to collaborate on DevOps Project.
+-📫 How to reach me on my email id akash.talmale66@gmail.com
