@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 - 👯 I’m looking to collaborate on **DevOps Project**
 
-- 💬 Ask me about **Jenkins, XLR, Linux**
+- 💬 Ask me about **Docker,Jenkins, XLR, Linux**
 
 - 📫 How to reach me **akash.talmale66@gmail.com**
 
